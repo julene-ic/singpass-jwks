@@ -1,0 +1,13 @@
+{
+  "keys": [
+    {
+      "kty": "EC",
+      "use": "sig",
+      "alg": "ES256",
+      "kid": "nstc-staging-001",
+      "crv": "P-256",
+      "x": "bcAIfWNLEkYnTEMbEAk2IMSBKz1xnrWs6I8-EPLdtJw",
+      "y": "HdzWUAWb6nid0bPeGqvwJflQvj0_tLKQlKwJ0fLyjhI"
+    }
+  ]
+}
