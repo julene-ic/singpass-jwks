@@ -8,6 +8,17 @@
       "crv": "P-256",
       "x": "bcAIfWNLEkYnTEMbEAk2IMSBKz1xnrWs6I8-EPLdtJw",
       "y": "HdzWUAWb6nid0bPeGqvwJflQvj0_tLKQlKwJ0fLyjhI"
+    },
+    {
+      "kty": "EC",
+      "use": "enc",
+      "alg": "ECDH-ES+A256KW",
+      "kid": "nstc-staging-enc-001",
+      "crv": "P-256",
+      "x": "Prl-uy4fb_F-4-JHzoMwTg6wPHHgwzVQ0HoxfnMYSmM",
+      "y": "Gf2G9IxcymrQUY2mLKExY_vI8xbUcHb49InwlSPlbK0"
     }
   ]
 }
+
+
